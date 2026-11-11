@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Night City</string>
+    <string name="title_activity_main">Night City</string>
+    <string name="package_name">com.officerkd6.player</string>
+    <string name="custom_url_scheme">com.officerkd6.player</string>
+</resources>
