@@ -1,0 +1,6 @@
+{
+  "name": "Diario - AI Notes, Diary & Video Studio",
+  "description": "An all-in-one customizable diary, notes, and video editor app with AI 4K image generation, cloud sync, Google account support, custom 4K/GIF wallpapers, and offline accessibility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "com.diario.notes",
+  "appName": "Diario",
+  "webDir": "dist",
+  "android": { "allowMixedContent": false },
+  "backgroundColor": "#0b0c0e"
+}
